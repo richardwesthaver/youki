@@ -1,5 +1,7 @@
 # Changelog
 
+## [v0.3.1](https://github.com/richardwesthaver/youki/compare/v0.3.0...v0.3.1) - 2024-01-10
+
 ## [v0.3.1](https://github.com/containers/youki/compare/v0.3.0...v0.3.1) - 2023-12-19
 ### 💪 Improvements
 - fix(libcgroups): report CPU throttling stats in 'libcgroups::v2' by @xiaoyang-sde in https://github.com/containers/youki/pull/2524
